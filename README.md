@@ -10,4 +10,8 @@ The steps include-
 4) Get the response - created a function to identify class and retrieve random responses from a list of responses, used **Tkinter library** to develop GUI
 5) To Run the chatbot- on the command prompt, write ''python chatgui.py'' and enter and enjoy talking with the bot.
 
-Thank you.
+To run the Chatbot-
+1. Open the folder in VS Code
+2. Run the file Chatgui.py and start messaging with the bot!!
+
+Thank You.
