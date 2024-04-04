@@ -14,4 +14,9 @@ To run the Chatbot-
 1. Open the folder in VS Code
 2. Run the file Chatgui.py and start messaging with the bot!!
 
+Input Output Chat-
+
+
+![pyt](https://github.com/yvarsha191/python_chatbot/assets/121348575/902c023e-202d-4891-901c-197d3e1e3d92)
+
 Thank You.
